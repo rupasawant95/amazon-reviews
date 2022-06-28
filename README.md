@@ -20,6 +20,7 @@ This project is designed to predict Amazon Product review sentiment analysis and
  Output video - https://github.com/rupasawant95/amazon-reviews/blob/main/output.mp4
  
  Model deployment link - http://e131-34-80-207-198.ngrok.io/
+            Data set link - https://github.com/rupasawant95/amazon-reviews/blob/main/amazon_dataset.ipynb
  
  
 Thank You 
