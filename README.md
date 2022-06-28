@@ -5,13 +5,17 @@ This project is designed to predict Amazon Product review sentiment analysis and
   
   Do a sentiment analysis on quality of product are positive and negative based on ratings given by the user.
   
- #Installation
+ # 1.Installation
  
   Install Jupyter Notebook and Python 3.10
   
   On top of all the requirements mentioned in requirements.txt
   
- #Output
+ # 2.Predict 
+ 
+ 
+  
+ # 3.Output
  
  Output video - https://github.com/rupasawant95/amazon-reviews/blob/main/output.mp4
  
