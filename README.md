@@ -13,7 +13,7 @@ This project is designed to predict Amazon Product review sentiment analysis and
   
  # 2.Predict 
  
- 
+ For predict our model we use - https://github.com/rupasawant95/amazon-reviews/blob/main/predict_api.py 
   
  # 3.Output
  
